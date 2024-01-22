@@ -74,7 +74,8 @@ composer phpstan
 
 ## Attendu
 
-Après avoir parcours les différentes classes, vous devrez écrire les tests pour couvrir l'intégralité des use case de ce projet.
+Après avoir parcouru les différentes classes, vous devrez écrire les tests pour couvrir l'intégralité des use case 
+de ce projet.
 
 Pour cela vous devrez créer un fichier `phpunit.xml` pour la configuration de PHPUnit. Vous devrez avoir une attention particulière à la structure de votre dossier test.
 
