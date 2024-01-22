@@ -12,6 +12,7 @@ class WalletTest extends TestCase
 
     protected function setUp(): void
     {
+        //j'utilise pas autant que j'aurais pu le setUp
         parent::setUp();
         $this->faker = Factory::create();
     }
